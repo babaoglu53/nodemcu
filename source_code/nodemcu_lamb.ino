@@ -1,5 +1,5 @@
-#define WIFI_NAME "Xiaomi_4EDD"
-#define WIFI_PASSWORD "53BB2515"
+#define WIFI_NAME ""
+#define WIFI_PASSWORD ""
 #define DEVICE_ID 2
 #define DEVICE_NAME "relay_project"
 #define TOKEN "~905304_23t3FtUCBzHqKYwxqwINikWy"
